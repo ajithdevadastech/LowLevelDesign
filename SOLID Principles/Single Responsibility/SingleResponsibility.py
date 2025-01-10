@@ -1,3 +1,6 @@
+
+#reference: https://blog.algomaster.io/p/solid-principles-explained-with-code
+
 class UserAuthenticator:
     def authenticate_user(self, username, password):
         print(username, password)
