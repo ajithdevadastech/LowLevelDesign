@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53f2d969-74a0-4dc4-a2a1-aa1701b79295" name="Changes" comment="first commit 8-31">
-      <change afterPath="$PROJECT_DIR$/SOLID Principles/Dependency Inversion/DI Correct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID Principles/Dependency Inversion/DI Incorrect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLID Principles/Single Responsibility/SingleResponsibility.py" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/Single Responsibility/SingleResponsibility.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -34,27 +35,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Abstraction.executor": "Run",
-    "Python.DI Correct.executor": "Run",
-    "Python.Encapsulation.executor": "Run",
-    "Python.Inheritance.executor": "Run",
-    "Python.Liskov - Incorrect.executor": "Run",
-    "Python.Liskov.executor": "Run",
-    "Python.Open Closed - Incorrect.executor": "Run",
-    "Python.Open-Closed.executor": "Run",
-    "Python.Polymorphism-Method Overloading.executor": "Run",
-    "Python.Polymorphism-Method overriding.executor": "Run",
-    "Python.Polymorphism-Operator Overloading.executor": "Run",
-    "Python.SingleResponsibility-Incorrect.executor": "Run",
-    "Python.SingleResponsibility.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DI Correct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Liskov - Incorrect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Liskov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Open Closed - Incorrect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Open-Closed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism-Method Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism-Method overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism-Operator Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SingleResponsibility-Incorrect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SingleResponsibility.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\adevdas\PycharmProjects\LowLevelDesign\SOLID Principles\Single Responsibility" />
