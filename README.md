@@ -1,8 +1,8 @@
-**Low Level Design**
+# Low Level Design
 
-**BASIC OOP Concepts**
+## BASIC OOP Concepts**
 
-**Abstraction**
+### Abstraction
 
 Abstraction helps to simplify complex systems and focus on the essential features.
 
@@ -10,7 +10,7 @@ In Python, you can achieve abstraction using abstract base classes (ABC) and abs
 
 [LowLevelDesign/Abstraction.py at master · ajithdevadastech/LowLevelDesign](https://github.com/ajithdevadastech/LowLevelDesign/blob/master/Abstraction.py)
 
-**Encapsulation**
+### Encapsulation
 
 **Encapsulation** is the concept of hiding the implementation details of an object from the outside world and only exposing the necessary information through public methods.
 
@@ -20,7 +20,7 @@ In Python, you can achieve encapsulation using private attributes and methods, d
 
 [LowLevelDesign/Encapsulation.py at master · ajithdevadastech/LowLevelDesign](https://github.com/ajithdevadastech/LowLevelDesign/blob/master/Encapsulation.py)
 
-**Inheritance**
+### Inheritance
 
 Inheritance is a mechanism that allows a class to inherit properties and methods from another class, called the superclass or parent class.
 
@@ -32,7 +32,7 @@ Inheritance promotes code reuse and helps create a hierarchical structure.
 
 [LowLevelDesign/Inheritance.py at master · ajithdevadastech/LowLevelDesign](https://github.com/ajithdevadastech/LowLevelDesign/blob/master/Inheritance.py)
 
-**Polymorphism**
+### Polymorphism
 
 Polymorphism is the ability of an object to take on multiple forms.
 
@@ -52,15 +52,15 @@ Operator Overloading:
 
 <https://github.com/ajithdevadastech/LowLevelDesign/blob/master/Polymorphism-Operator%20Overloading.py>
 
-**SOLID Principles**
+## SOLID Principles
 
-**S - Single Responsibility**
+### S - Single Responsibility
 
 ![Alt Text](Images/S.png)
 
 <https://github.com/ajithdevadastech/LowLevelDesign/tree/master/SOLID%20Principles/Single%20Responsibility>
 
-**O - Open-Closed**
+### O - Open-Closed
 
 ![Alt Text](Images/O.png)
 
@@ -74,7 +74,7 @@ This principle aims to extend a Class’s behavior without changing the existing
 
 <https://github.com/ajithdevadastech/LowLevelDesign/tree/master/SOLID%20Principles/Open-Closed>
 
-**L – Liskov Substitution**
+### L – Liskov Substitution
 
 ![Alt Text](Images/L.png)
 
@@ -94,7 +94,7 @@ This principle aims to enforce consistency so that the parent Class or its child
 
 <https://github.com/ajithdevadastech/LowLevelDesign/tree/master/SOLID%20Principles/Liskov%20Substitution>
 
-**I – Interface Segregation**
+### I – Interface Segregation
 
 ![Alt Text](Images/I.png)
 
@@ -108,7 +108,7 @@ This principle aims at splitting a set of actions into smaller sets so that a Cl
 
 <https://github.com/ajithdevadastech/LowLevelDesign/tree/master/SOLID%20Principles/Interface%20Segregation%20Principle%20(ISP)>
 
-**D – Dependency Inversion**
+### D – Dependency Inversion
 
 ![Alt Text](Images/D.png)
 
